@@ -1,2 +1,1 @@
 # SQL
-Experimenting with SQL
